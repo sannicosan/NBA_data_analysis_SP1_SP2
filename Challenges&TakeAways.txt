@@ -1,0 +1,17 @@
+﻿1. Challenges:
+   1. Getting familiar to the NBA API itself. 
+      1. A lot of investigation about the calls to the endpoints, selecting the right endpoints/tables.
+      2. The time that took making these calls and extract the data (when testing, this got tricky because at the beginning it was try&error and thus consumed a lot of time).
+   2. Converting the ‘Age’ to the desired format ( manipulation of the datetime library)
+   3. The Bonus track (map): difficult to implement -> we are still investigating though.
+   4. Achieving the dimensiones required for the test too: we frequently find new inconsistencies due to the criterion each of the members used to filter/extract the proper data. 
+2. Take-aways: 
+   1. The power of using the apply+lambda & how easy, readable and short it is when coding.  
+   2. Data extraction from a Public API.
+   3. Google/StackOverflow are your friends!!
+      1. Not only for solution, they also teach you best and efficient coding practices
+
+
+
+
+Note: We all still working on the project.
